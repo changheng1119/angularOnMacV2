@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title:string = 'youtube-Happy';
   date = new Date()
-  name: string = 'Hank Yang 2012';
+  name: string = 'Hank Yang';
   
   constructor() {
     console.log("Constructor called");
